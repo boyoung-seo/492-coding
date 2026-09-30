@@ -1,9 +1,0 @@
-dataset,variable,type,description,unit_or_values,measured_when,notes
-c01_rct_onboarding.csv,user_id,integer,Unique user identifier,1..N,identifier,One row per randomized user
-c01_rct_onboarding.csv,household_id,integer,Household cluster identifier,ID,pre-treatment,Users in same household may share environment
-c01_rct_onboarding.csv,assigned_new,binary,Random assignment to new onboarding,0/1,assignment,Use this variable for ITT grouping
-c01_rct_onboarding.csv,used_new_flow,binary,Whether user actually used new onboarding,0/1,post-assignment,May differ from randomized assignment
-c01_rct_onboarding.csv,baseline_score,float,Pre-treatment engagement score,standardized,pre-treatment,Balance-check covariate
-c01_rct_onboarding.csv,signup_channel,category,Acquisition channel at signup,organic/paid_search/referral/partner,pre-treatment,Balance-check covariate
-c01_rct_onboarding.csv,support_contact,binary,Contacted support after assignment,0/1,post-treatment,Potential post-treatment variable
-c01_rct_onboarding.csv,retained_30d,float/binary,30-day retention outcome; missing for some users,0/1/NA,outcome,Missingness is part of the audit
