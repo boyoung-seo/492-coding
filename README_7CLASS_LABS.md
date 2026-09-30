@@ -13,6 +13,4 @@ These labs align to the seven class decks:
 Each lab lives under `labs_7class/` and contains a student notebook plus a `data_dictionary.csv`. All public datasets live in `data/`.
 
 Student notebooks load files directly from:
-`https://raw.githubusercontent.com/ilovemypinktutu/492-coding/main/data/...`
-
-Instructor solutions and DGPs are intentionally **not** inside this public-repo folder.
+`https://raw.githubusercontent.com/boyoung-seo/492-coding/main/data/...`
