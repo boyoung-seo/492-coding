@@ -4,13 +4,13 @@ Seven business cases. In each one you make a real decision with data, see what h
 
 | # | Case | Your decision | Open in Colab |
 |---|---|---|---|
-| 1 | Do win-back discounts work? | Which customers get a discount | [Part 1](https://colab.research.google.com/github/boyoung-seo/g492-coding/blob/main/cases/case1_rct_retention/case1_part1.ipynb) |
-| 2 | Is the sales bootcamp worth it? | Which reps get trained | [Part 1](https://colab.research.google.com/github/boyoung-seo/g492-coding/blob/main/cases/case2_controls_training/case2_part1.ipynb) |
-| 3 | Does CareBridge reduce readmissions? | Which patients get enrolled | [Part 1](https://colab.research.google.com/github/boyoung-seo/g492-coding/blob/main/cases/case3_matching_care/case3_part1.ipynb) |
-| 4 | Should we badge more sellers? | Which sellers get a Trusted badge | [Part 1](https://colab.research.google.com/github/boyoung-seo/g492-coding/blob/main/cases/case4_panel_badge/case4_part1.ipynb) |
-| 5 | Replace the CEO after a bad year? | Which CEOs to replace | [Part 1](https://colab.research.google.com/github/boyoung-seo/g492-coding/blob/main/cases/case5_natural_ceo/case5_part1.ipynb) |
-| 6 | Should we cut prices? | One shelf price for Q4 | [Part 1](https://colab.research.google.com/github/boyoung-seo/g492-coding/blob/main/cases/case6_iv_pricing/case6_part1.ipynb) |
-| 7 | Where should the Gold tier start? | The Gold spending threshold | [Part 1](https://colab.research.google.com/github/boyoung-seo/g492-coding/blob/main/cases/case7_rdd_gold/case7_part1.ipynb) |
+| 1 | Do win-back discounts work? | Which customers get a discount | [Part 1](https://colab.research.google.com/github/boyoung-seo/492-coding/blob/main/cases/case1_rct_retention/case1_part1.ipynb) |
+| 2 | Is the sales bootcamp worth it? | Which reps get trained | [Part 1](https://colab.research.google.com/github/boyoung-seo/492-coding/blob/main/cases/case2_controls_training/case2_part1.ipynb) |
+| 3 | Does CareBridge reduce readmissions? | Which patients get enrolled | [Part 1](https://colab.research.google.com/github/boyoung-seo/492-coding/blob/main/cases/case3_matching_care/case3_part1.ipynb) |
+| 4 | Should we badge more sellers? | Which sellers get a Trusted badge | [Part 1](https://colab.research.google.com/github/boyoung-seo/492-coding/blob/main/cases/case4_panel_badge/case4_part1.ipynb) |
+| 5 | Replace the CEO after a bad year? | Which CEOs to replace | [Part 1](https://colab.research.google.com/github/boyoung-seo/492-coding/blob/main/cases/case5_natural_ceo/case5_part1.ipynb) |
+| 6 | Should we cut prices? | One shelf price for Q4 | [Part 1](https://colab.research.google.com/github/boyoung-seo/492-coding/blob/main/cases/case6_iv_pricing/case6_part1.ipynb) |
+| 7 | Where should the Gold tier start? | The Gold spending threshold | [Part 1](https://colab.research.google.com/github/boyoung-seo/492-coding/blob/main/cases/case7_rdd_gold/case7_part1.ipynb) |
 
 ## How each case works
 
