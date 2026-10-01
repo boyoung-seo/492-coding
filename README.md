@@ -15,10 +15,10 @@ Seven business cases. In each one you make a real decision with data, see what h
 ## How each case works
 
 1. **Read the memo.** A manager has a decision to make. It's a business question, not a statistics question.
-2. **Model it (Part 1, in class, in pairs).** Use any AI assistant and any method. Build the best model you can.
+2. **Model it (Part 1, in class, in groups).** Use any AI assistant and any method. Build the best model you can.
 3. **Commit.** Submit your decision and the profit you predict it will earn, using the form your instructor shares.
 4. **Deployment.** Your instructor runs every team's decision through what actually happens, and you see predicted vs. actual profit for every team.
-5. **Part 2 (homework).** New information arrives: a Part 2 notebook and new data files appear in the case folder after class. Answer its questions before writing any code, redo the analysis, and resubmit. Round 2 is deployed at the start of the next class.
+5. **Part 2 (homework).** New information arrives. The Part 2 notebook and its data are already in the case folder; open it when your instructor says so, after the deployment. Answer its questions before writing any code, redo the analysis, and resubmit. Round 2 is deployed after the Part 2 deadline.
 
 ## Getting started
 
@@ -32,7 +32,8 @@ Seven business cases. In each one you make a real decision with data, see what h
 cases/
   case1_rct_retention/
     case1_part1.ipynb      Part 1 notebook
-    data/                  data for the case (Part 2 files are added after class)
+    case1_part2.ipynb      Part 2 notebook (after the deployment)
+    data/                  data for Part 1 and Part 2
   case2_controls_training/
   ...
   case7_rdd_gold/
