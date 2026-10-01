@@ -1,0 +1,938 @@
+firm_id,year,departure_reason
+F001,2012,resigned under board pressure
+F001,2022,planned retirement
+F001,2023,resigned under board pressure
+F002,2016,planned retirement
+F003,2017,planned retirement
+F004,2020,planned retirement
+F004,2021,death or sudden illness
+F006,2016,planned retirement
+F006,2024,planned retirement
+F007,2016,resigned under board pressure
+F007,2023,resigned under board pressure
+F008,2015,resigned under board pressure
+F011,2012,planned retirement
+F011,2017,death or sudden illness
+F011,2018,resigned under board pressure
+F012,2016,planned retirement
+F013,2014,planned retirement
+F014,2020,planned retirement
+F014,2021,resigned under board pressure
+F015,2014,death or sudden illness
+F016,2024,resigned under board pressure
+F017,2011,resigned under board pressure
+F017,2017,resigned under board pressure
+F017,2020,resigned under board pressure
+F017,2025,planned retirement
+F021,2020,resigned under board pressure
+F022,2019,planned retirement
+F023,2016,resigned under board pressure
+F023,2017,resigned under board pressure
+F024,2012,planned retirement
+F024,2018,resigned under board pressure
+F024,2023,planned retirement
+F026,2021,planned retirement
+F027,2024,resigned under board pressure
+F029,2021,planned retirement
+F031,2011,planned retirement
+F031,2014,resigned under board pressure
+F031,2025,planned retirement
+F032,2011,death or sudden illness
+F032,2015,death or sudden illness
+F033,2017,resigned under board pressure
+F034,2023,planned retirement
+F035,2016,resigned under board pressure
+F036,2015,planned retirement
+F036,2021,resigned under board pressure
+F037,2014,planned retirement
+F037,2024,planned retirement
+F038,2014,planned retirement
+F038,2017,resigned under board pressure
+F038,2022,planned retirement
+F039,2015,planned retirement
+F039,2018,resigned under board pressure
+F039,2020,resigned under board pressure
+F040,2015,planned retirement
+F041,2017,planned retirement
+F042,2016,planned retirement
+F044,2017,resigned under board pressure
+F044,2020,resigned under board pressure
+F044,2023,resigned under board pressure
+F044,2025,resigned under board pressure
+F045,2011,death or sudden illness
+F045,2021,planned retirement
+F045,2022,resigned under board pressure
+F046,2015,resigned under board pressure
+F046,2017,resigned under board pressure
+F047,2015,resigned under board pressure
+F048,2012,planned retirement
+F049,2017,resigned under board pressure
+F049,2018,death or sudden illness
+F050,2011,resigned under board pressure
+F050,2015,resigned under board pressure
+F050,2017,resigned under board pressure
+F052,2018,planned retirement
+F052,2019,resigned under board pressure
+F052,2020,resigned under board pressure
+F053,2013,resigned under board pressure
+F053,2014,resigned under board pressure
+F054,2014,resigned under board pressure
+F054,2019,resigned under board pressure
+F055,2017,resigned under board pressure
+F055,2022,planned retirement
+F056,2013,planned retirement
+F056,2015,resigned under board pressure
+F056,2016,resigned under board pressure
+F057,2023,planned retirement
+F058,2024,resigned under board pressure
+F058,2025,resigned under board pressure
+F059,2025,resigned under board pressure
+F060,2020,resigned under board pressure
+F061,2014,planned retirement
+F061,2021,resigned under board pressure
+F062,2013,planned retirement
+F062,2023,planned retirement
+F063,2011,resigned under board pressure
+F063,2013,resigned under board pressure
+F063,2023,planned retirement
+F065,2021,planned retirement
+F067,2013,resigned under board pressure
+F067,2018,resigned under board pressure
+F067,2019,resigned under board pressure
+F067,2022,resigned under board pressure
+F068,2016,resigned under board pressure
+F068,2022,planned retirement
+F069,2015,resigned under board pressure
+F071,2020,planned retirement
+F071,2022,resigned under board pressure
+F072,2014,death or sudden illness
+F072,2018,death or sudden illness
+F075,2013,planned retirement
+F076,2011,planned retirement
+F076,2024,planned retirement
+F077,2023,planned retirement
+F078,2018,resigned under board pressure
+F079,2015,death or sudden illness
+F079,2021,resigned under board pressure
+F081,2020,planned retirement
+F081,2022,resigned under board pressure
+F082,2020,resigned under board pressure
+F083,2018,planned retirement
+F083,2022,resigned under board pressure
+F084,2014,resigned under board pressure
+F084,2018,resigned under board pressure
+F084,2020,resigned under board pressure
+F085,2012,resigned under board pressure
+F085,2019,resigned under board pressure
+F087,2020,planned retirement
+F087,2025,resigned under board pressure
+F088,2022,planned retirement
+F090,2012,resigned under board pressure
+F090,2016,resigned under board pressure
+F090,2019,resigned under board pressure
+F090,2020,resigned under board pressure
+F091,2015,resigned under board pressure
+F092,2020,resigned under board pressure
+F092,2022,resigned under board pressure
+F093,2013,resigned under board pressure
+F093,2015,resigned under board pressure
+F094,2022,resigned under board pressure
+F094,2023,resigned under board pressure
+F095,2019,resigned under board pressure
+F095,2025,planned retirement
+F096,2015,death or sudden illness
+F097,2021,resigned under board pressure
+F097,2022,resigned under board pressure
+F098,2022,resigned under board pressure
+F099,2012,resigned under board pressure
+F099,2021,death or sudden illness
+F099,2022,resigned under board pressure
+F100,2011,planned retirement
+F100,2017,death or sudden illness
+F100,2023,resigned under board pressure
+F100,2025,resigned under board pressure
+F103,2011,resigned under board pressure
+F103,2012,resigned under board pressure
+F104,2017,planned retirement
+F105,2015,planned retirement
+F106,2012,resigned under board pressure
+F107,2011,resigned under board pressure
+F108,2011,resigned under board pressure
+F108,2022,death or sudden illness
+F108,2023,resigned under board pressure
+F109,2012,resigned under board pressure
+F109,2015,resigned under board pressure
+F109,2016,resigned under board pressure
+F109,2019,resigned under board pressure
+F109,2023,resigned under board pressure
+F109,2025,resigned under board pressure
+F110,2014,resigned under board pressure
+F111,2025,resigned under board pressure
+F112,2020,death or sudden illness
+F113,2017,resigned under board pressure
+F114,2012,planned retirement
+F114,2017,resigned under board pressure
+F114,2025,resigned under board pressure
+F115,2015,death or sudden illness
+F115,2020,planned retirement
+F115,2021,resigned under board pressure
+F116,2011,planned retirement
+F116,2019,resigned under board pressure
+F116,2020,resigned under board pressure
+F116,2021,resigned under board pressure
+F116,2024,resigned under board pressure
+F117,2018,planned retirement
+F118,2023,planned retirement
+F119,2013,planned retirement
+F119,2021,planned retirement
+F119,2025,resigned under board pressure
+F120,2014,resigned under board pressure
+F120,2024,planned retirement
+F122,2011,resigned under board pressure
+F122,2017,planned retirement
+F124,2023,death or sudden illness
+F125,2013,resigned under board pressure
+F126,2013,planned retirement
+F126,2017,resigned under board pressure
+F126,2024,death or sudden illness
+F127,2016,planned retirement
+F127,2018,death or sudden illness
+F127,2022,resigned under board pressure
+F128,2017,resigned under board pressure
+F129,2012,planned retirement
+F129,2023,resigned under board pressure
+F133,2013,planned retirement
+F133,2016,resigned under board pressure
+F134,2025,death or sudden illness
+F136,2014,death or sudden illness
+F136,2015,resigned under board pressure
+F137,2013,planned retirement
+F137,2017,resigned under board pressure
+F137,2023,resigned under board pressure
+F138,2014,resigned under board pressure
+F138,2019,resigned under board pressure
+F139,2015,resigned under board pressure
+F139,2020,planned retirement
+F140,2020,resigned under board pressure
+F140,2023,resigned under board pressure
+F141,2024,planned retirement
+F142,2012,death or sudden illness
+F142,2020,resigned under board pressure
+F143,2017,resigned under board pressure
+F143,2025,resigned under board pressure
+F144,2019,resigned under board pressure
+F146,2012,death or sudden illness
+F147,2018,resigned under board pressure
+F147,2019,resigned under board pressure
+F147,2024,death or sudden illness
+F148,2016,planned retirement
+F148,2022,resigned under board pressure
+F149,2012,resigned under board pressure
+F149,2017,resigned under board pressure
+F150,2017,resigned under board pressure
+F150,2025,planned retirement
+F151,2011,death or sudden illness
+F151,2018,resigned under board pressure
+F153,2013,resigned under board pressure
+F153,2022,resigned under board pressure
+F154,2019,planned retirement
+F155,2016,planned retirement
+F155,2021,planned retirement
+F156,2012,resigned under board pressure
+F156,2016,resigned under board pressure
+F156,2023,planned retirement
+F157,2021,resigned under board pressure
+F157,2024,resigned under board pressure
+F158,2013,planned retirement
+F158,2017,death or sudden illness
+F159,2013,planned retirement
+F160,2013,planned retirement
+F160,2017,resigned under board pressure
+F160,2023,resigned under board pressure
+F161,2020,planned retirement
+F161,2023,resigned under board pressure
+F162,2015,resigned under board pressure
+F162,2020,planned retirement
+F163,2012,planned retirement
+F165,2014,resigned under board pressure
+F165,2018,resigned under board pressure
+F166,2012,planned retirement
+F166,2015,resigned under board pressure
+F166,2020,resigned under board pressure
+F167,2012,planned retirement
+F167,2013,resigned under board pressure
+F168,2012,death or sudden illness
+F168,2022,planned retirement
+F168,2023,resigned under board pressure
+F171,2012,resigned under board pressure
+F172,2020,planned retirement
+F172,2024,resigned under board pressure
+F173,2024,planned retirement
+F174,2011,resigned under board pressure
+F176,2012,death or sudden illness
+F176,2017,planned retirement
+F178,2020,resigned under board pressure
+F179,2015,planned retirement
+F181,2022,resigned under board pressure
+F181,2024,resigned under board pressure
+F182,2021,planned retirement
+F184,2015,resigned under board pressure
+F184,2024,planned retirement
+F185,2013,death or sudden illness
+F185,2022,planned retirement
+F186,2014,planned retirement
+F186,2015,resigned under board pressure
+F187,2014,planned retirement
+F187,2021,resigned under board pressure
+F188,2011,resigned under board pressure
+F188,2013,resigned under board pressure
+F189,2015,planned retirement
+F189,2020,death or sudden illness
+F190,2020,planned retirement
+F190,2025,planned retirement
+F191,2018,planned retirement
+F191,2024,planned retirement
+F192,2014,resigned under board pressure
+F194,2013,resigned under board pressure
+F194,2023,resigned under board pressure
+F194,2024,resigned under board pressure
+F194,2025,resigned under board pressure
+F195,2014,planned retirement
+F195,2022,planned retirement
+F196,2011,resigned under board pressure
+F197,2015,planned retirement
+F197,2018,resigned under board pressure
+F197,2022,resigned under board pressure
+F197,2024,resigned under board pressure
+F198,2012,death or sudden illness
+F198,2024,planned retirement
+F199,2011,planned retirement
+F199,2017,resigned under board pressure
+F199,2018,resigned under board pressure
+F199,2024,planned retirement
+F199,2025,resigned under board pressure
+F201,2017,planned retirement
+F202,2013,death or sudden illness
+F202,2024,resigned under board pressure
+F203,2020,planned retirement
+F204,2014,death or sudden illness
+F205,2014,resigned under board pressure
+F205,2019,planned retirement
+F205,2024,resigned under board pressure
+F205,2025,resigned under board pressure
+F206,2013,resigned under board pressure
+F206,2018,planned retirement
+F206,2023,resigned under board pressure
+F207,2012,resigned under board pressure
+F207,2023,resigned under board pressure
+F208,2014,resigned under board pressure
+F209,2015,planned retirement
+F214,2013,resigned under board pressure
+F214,2016,resigned under board pressure
+F214,2020,death or sudden illness
+F215,2011,resigned under board pressure
+F215,2018,resigned under board pressure
+F215,2021,resigned under board pressure
+F217,2017,resigned under board pressure
+F217,2018,resigned under board pressure
+F218,2015,resigned under board pressure
+F218,2025,resigned under board pressure
+F219,2011,planned retirement
+F220,2025,planned retirement
+F221,2022,resigned under board pressure
+F222,2022,resigned under board pressure
+F223,2015,resigned under board pressure
+F223,2017,resigned under board pressure
+F223,2019,resigned under board pressure
+F224,2018,planned retirement
+F224,2024,planned retirement
+F225,2013,resigned under board pressure
+F226,2012,resigned under board pressure
+F227,2012,resigned under board pressure
+F227,2018,resigned under board pressure
+F228,2012,resigned under board pressure
+F229,2016,planned retirement
+F229,2021,resigned under board pressure
+F229,2023,death or sudden illness
+F230,2011,planned retirement
+F231,2012,death or sudden illness
+F232,2015,planned retirement
+F233,2011,resigned under board pressure
+F233,2016,planned retirement
+F233,2019,death or sudden illness
+F234,2015,resigned under board pressure
+F234,2021,planned retirement
+F235,2013,planned retirement
+F235,2020,planned retirement
+F236,2012,planned retirement
+F236,2024,planned retirement
+F237,2014,planned retirement
+F237,2023,planned retirement
+F238,2013,resigned under board pressure
+F238,2017,resigned under board pressure
+F238,2021,resigned under board pressure
+F238,2022,resigned under board pressure
+F238,2024,resigned under board pressure
+F239,2018,resigned under board pressure
+F241,2013,resigned under board pressure
+F241,2017,resigned under board pressure
+F241,2018,resigned under board pressure
+F241,2019,resigned under board pressure
+F242,2013,resigned under board pressure
+F242,2024,death or sudden illness
+F242,2025,death or sudden illness
+F243,2020,planned retirement
+F243,2022,resigned under board pressure
+F244,2011,resigned under board pressure
+F244,2020,resigned under board pressure
+F244,2021,resigned under board pressure
+F245,2014,planned retirement
+F246,2017,planned retirement
+F248,2017,planned retirement
+F248,2024,planned retirement
+F249,2012,planned retirement
+F249,2013,resigned under board pressure
+F249,2018,resigned under board pressure
+F249,2019,resigned under board pressure
+F250,2019,planned retirement
+F251,2023,resigned under board pressure
+F251,2024,death or sudden illness
+F252,2016,resigned under board pressure
+F253,2025,planned retirement
+F254,2018,resigned under board pressure
+F254,2019,death or sudden illness
+F254,2022,resigned under board pressure
+F254,2024,death or sudden illness
+F255,2012,resigned under board pressure
+F256,2024,resigned under board pressure
+F256,2025,resigned under board pressure
+F257,2011,resigned under board pressure
+F259,2012,planned retirement
+F259,2019,planned retirement
+F259,2025,planned retirement
+F260,2022,resigned under board pressure
+F261,2014,resigned under board pressure
+F261,2022,resigned under board pressure
+F261,2024,resigned under board pressure
+F262,2014,planned retirement
+F262,2021,resigned under board pressure
+F263,2019,resigned under board pressure
+F265,2011,resigned under board pressure
+F266,2016,resigned under board pressure
+F266,2017,resigned under board pressure
+F267,2013,resigned under board pressure
+F267,2018,resigned under board pressure
+F268,2025,planned retirement
+F270,2018,planned retirement
+F270,2019,resigned under board pressure
+F270,2022,resigned under board pressure
+F271,2019,resigned under board pressure
+F272,2021,resigned under board pressure
+F273,2013,planned retirement
+F273,2018,planned retirement
+F273,2025,resigned under board pressure
+F274,2025,resigned under board pressure
+F275,2022,planned retirement
+F277,2025,resigned under board pressure
+F278,2016,planned retirement
+F278,2023,resigned under board pressure
+F279,2021,death or sudden illness
+F280,2017,resigned under board pressure
+F281,2017,planned retirement
+F282,2017,death or sudden illness
+F284,2013,planned retirement
+F284,2022,planned retirement
+F285,2017,resigned under board pressure
+F285,2018,death or sudden illness
+F286,2011,planned retirement
+F286,2020,planned retirement
+F287,2017,planned retirement
+F287,2022,planned retirement
+F287,2023,resigned under board pressure
+F287,2024,resigned under board pressure
+F288,2021,resigned under board pressure
+F289,2011,planned retirement
+F290,2013,planned retirement
+F290,2015,resigned under board pressure
+F290,2024,death or sudden illness
+F291,2015,resigned under board pressure
+F291,2022,planned retirement
+F294,2022,resigned under board pressure
+F294,2023,resigned under board pressure
+F295,2015,planned retirement
+F295,2016,resigned under board pressure
+F295,2024,planned retirement
+F296,2018,resigned under board pressure
+F297,2018,planned retirement
+F297,2025,planned retirement
+F298,2014,planned retirement
+F299,2016,planned retirement
+F300,2011,planned retirement
+F300,2020,death or sudden illness
+F301,2012,planned retirement
+F301,2014,resigned under board pressure
+F301,2023,resigned under board pressure
+F302,2023,resigned under board pressure
+F303,2019,resigned under board pressure
+F303,2020,death or sudden illness
+F303,2024,death or sudden illness
+F304,2020,resigned under board pressure
+F305,2014,planned retirement
+F306,2014,resigned under board pressure
+F306,2021,resigned under board pressure
+F306,2022,resigned under board pressure
+F309,2017,resigned under board pressure
+F310,2018,resigned under board pressure
+F310,2021,resigned under board pressure
+F311,2013,resigned under board pressure
+F311,2014,resigned under board pressure
+F311,2021,resigned under board pressure
+F312,2023,death or sudden illness
+F313,2020,planned retirement
+F314,2016,planned retirement
+F314,2017,resigned under board pressure
+F315,2012,planned retirement
+F315,2020,resigned under board pressure
+F317,2013,resigned under board pressure
+F319,2011,resigned under board pressure
+F319,2020,death or sudden illness
+F320,2015,planned retirement
+F320,2023,planned retirement
+F322,2015,resigned under board pressure
+F323,2015,planned retirement
+F323,2020,planned retirement
+F323,2021,resigned under board pressure
+F323,2025,resigned under board pressure
+F324,2020,resigned under board pressure
+F325,2016,resigned under board pressure
+F325,2017,resigned under board pressure
+F326,2025,resigned under board pressure
+F329,2012,resigned under board pressure
+F329,2013,resigned under board pressure
+F329,2022,planned retirement
+F330,2015,planned retirement
+F331,2019,planned retirement
+F331,2020,resigned under board pressure
+F331,2025,resigned under board pressure
+F332,2018,planned retirement
+F332,2020,resigned under board pressure
+F333,2019,death or sudden illness
+F335,2011,resigned under board pressure
+F336,2012,resigned under board pressure
+F336,2021,planned retirement
+F337,2025,planned retirement
+F338,2011,resigned under board pressure
+F338,2014,resigned under board pressure
+F338,2024,planned retirement
+F339,2019,resigned under board pressure
+F339,2023,resigned under board pressure
+F340,2012,resigned under board pressure
+F340,2018,planned retirement
+F340,2021,resigned under board pressure
+F340,2022,resigned under board pressure
+F341,2020,planned retirement
+F341,2021,resigned under board pressure
+F342,2017,resigned under board pressure
+F343,2015,planned retirement
+F343,2020,resigned under board pressure
+F344,2014,resigned under board pressure
+F345,2021,planned retirement
+F346,2012,resigned under board pressure
+F346,2013,resigned under board pressure
+F346,2023,planned retirement
+F346,2024,resigned under board pressure
+F347,2014,planned retirement
+F347,2015,death or sudden illness
+F349,2015,resigned under board pressure
+F350,2012,planned retirement
+F350,2019,resigned under board pressure
+F353,2013,resigned under board pressure
+F354,2013,resigned under board pressure
+F354,2017,resigned under board pressure
+F354,2018,resigned under board pressure
+F355,2015,planned retirement
+F355,2020,resigned under board pressure
+F356,2011,planned retirement
+F357,2022,death or sudden illness
+F357,2025,resigned under board pressure
+F358,2011,resigned under board pressure
+F358,2013,resigned under board pressure
+F359,2022,death or sudden illness
+F360,2022,planned retirement
+F361,2015,resigned under board pressure
+F361,2019,resigned under board pressure
+F361,2022,resigned under board pressure
+F362,2023,resigned under board pressure
+F362,2024,resigned under board pressure
+F364,2023,planned retirement
+F365,2018,resigned under board pressure
+F367,2017,resigned under board pressure
+F367,2018,resigned under board pressure
+F369,2024,planned retirement
+F370,2022,resigned under board pressure
+F370,2024,resigned under board pressure
+F371,2013,resigned under board pressure
+F371,2014,resigned under board pressure
+F371,2016,resigned under board pressure
+F371,2024,planned retirement
+F372,2012,resigned under board pressure
+F373,2025,planned retirement
+F374,2022,planned retirement
+F375,2013,resigned under board pressure
+F375,2021,death or sudden illness
+F375,2023,death or sudden illness
+F376,2016,resigned under board pressure
+F378,2023,resigned under board pressure
+F379,2013,resigned under board pressure
+F379,2021,planned retirement
+F380,2020,resigned under board pressure
+F380,2025,death or sudden illness
+F381,2016,planned retirement
+F382,2024,planned retirement
+F382,2025,resigned under board pressure
+F383,2014,planned retirement
+F384,2013,resigned under board pressure
+F384,2017,death or sudden illness
+F384,2022,planned retirement
+F384,2023,resigned under board pressure
+F384,2024,death or sudden illness
+F384,2025,resigned under board pressure
+F385,2024,planned retirement
+F386,2017,planned retirement
+F388,2011,resigned under board pressure
+F388,2016,planned retirement
+F388,2025,planned retirement
+F389,2013,planned retirement
+F389,2015,resigned under board pressure
+F390,2011,resigned under board pressure
+F390,2012,resigned under board pressure
+F390,2014,resigned under board pressure
+F390,2015,resigned under board pressure
+F390,2020,resigned under board pressure
+F391,2017,resigned under board pressure
+F391,2019,resigned under board pressure
+F393,2015,resigned under board pressure
+F393,2023,planned retirement
+F395,2013,resigned under board pressure
+F395,2024,planned retirement
+F397,2014,planned retirement
+F398,2012,death or sudden illness
+F399,2017,planned retirement
+F399,2025,resigned under board pressure
+F400,2016,planned retirement
+F400,2021,planned retirement
+F400,2023,resigned under board pressure
+F401,2025,resigned under board pressure
+F402,2011,death or sudden illness
+F402,2015,resigned under board pressure
+F402,2022,planned retirement
+F402,2024,resigned under board pressure
+F402,2025,resigned under board pressure
+F403,2018,resigned under board pressure
+F403,2024,planned retirement
+F404,2017,resigned under board pressure
+F404,2019,death or sudden illness
+F404,2022,resigned under board pressure
+F404,2025,resigned under board pressure
+F408,2015,resigned under board pressure
+F409,2018,resigned under board pressure
+F410,2013,resigned under board pressure
+F410,2022,death or sudden illness
+F411,2015,resigned under board pressure
+F411,2021,resigned under board pressure
+F412,2014,death or sudden illness
+F412,2015,resigned under board pressure
+F413,2019,resigned under board pressure
+F414,2021,resigned under board pressure
+F415,2022,resigned under board pressure
+F417,2016,planned retirement
+F417,2018,death or sudden illness
+F417,2022,resigned under board pressure
+F418,2022,resigned under board pressure
+F418,2023,resigned under board pressure
+F420,2015,death or sudden illness
+F420,2022,planned retirement
+F421,2016,planned retirement
+F421,2017,resigned under board pressure
+F421,2025,resigned under board pressure
+F423,2016,planned retirement
+F425,2017,resigned under board pressure
+F426,2011,death or sudden illness
+F426,2017,resigned under board pressure
+F427,2020,planned retirement
+F428,2018,planned retirement
+F430,2025,planned retirement
+F431,2016,planned retirement
+F431,2018,resigned under board pressure
+F431,2024,planned retirement
+F432,2012,resigned under board pressure
+F432,2014,death or sudden illness
+F432,2022,resigned under board pressure
+F434,2014,resigned under board pressure
+F435,2014,resigned under board pressure
+F435,2022,planned retirement
+F435,2025,resigned under board pressure
+F436,2014,planned retirement
+F436,2025,death or sudden illness
+F437,2020,resigned under board pressure
+F439,2015,planned retirement
+F439,2025,resigned under board pressure
+F440,2019,resigned under board pressure
+F441,2015,planned retirement
+F441,2023,planned retirement
+F442,2014,resigned under board pressure
+F442,2020,planned retirement
+F443,2025,planned retirement
+F444,2014,death or sudden illness
+F445,2012,resigned under board pressure
+F445,2015,resigned under board pressure
+F445,2022,resigned under board pressure
+F446,2020,planned retirement
+F446,2025,resigned under board pressure
+F447,2016,planned retirement
+F448,2012,resigned under board pressure
+F448,2023,planned retirement
+F449,2025,planned retirement
+F451,2025,death or sudden illness
+F452,2015,death or sudden illness
+F452,2016,resigned under board pressure
+F452,2022,resigned under board pressure
+F453,2012,resigned under board pressure
+F453,2021,planned retirement
+F454,2011,resigned under board pressure
+F455,2022,resigned under board pressure
+F455,2023,resigned under board pressure
+F456,2013,planned retirement
+F456,2019,resigned under board pressure
+F457,2024,resigned under board pressure
+F457,2025,resigned under board pressure
+F458,2017,resigned under board pressure
+F459,2022,resigned under board pressure
+F460,2021,planned retirement
+F460,2022,resigned under board pressure
+F461,2012,resigned under board pressure
+F461,2018,death or sudden illness
+F461,2019,resigned under board pressure
+F461,2022,resigned under board pressure
+F462,2024,planned retirement
+F463,2014,planned retirement
+F463,2017,resigned under board pressure
+F464,2023,death or sudden illness
+F465,2014,planned retirement
+F465,2020,resigned under board pressure
+F465,2023,resigned under board pressure
+F466,2011,death or sudden illness
+F466,2013,resigned under board pressure
+F466,2016,resigned under board pressure
+F468,2021,planned retirement
+F469,2012,resigned under board pressure
+F469,2025,resigned under board pressure
+F470,2012,resigned under board pressure
+F470,2021,planned retirement
+F472,2014,resigned under board pressure
+F472,2015,resigned under board pressure
+F472,2022,resigned under board pressure
+F472,2024,resigned under board pressure
+F473,2023,planned retirement
+F473,2024,resigned under board pressure
+F474,2012,planned retirement
+F474,2018,resigned under board pressure
+F476,2012,planned retirement
+F476,2019,planned retirement
+F476,2023,resigned under board pressure
+F478,2016,resigned under board pressure
+F478,2020,resigned under board pressure
+F479,2013,planned retirement
+F479,2019,death or sudden illness
+F480,2018,planned retirement
+F480,2020,resigned under board pressure
+F480,2022,resigned under board pressure
+F482,2013,planned retirement
+F483,2020,resigned under board pressure
+F483,2022,resigned under board pressure
+F484,2016,planned retirement
+F485,2017,planned retirement
+F485,2020,resigned under board pressure
+F485,2025,resigned under board pressure
+F487,2017,resigned under board pressure
+F488,2023,resigned under board pressure
+F488,2024,resigned under board pressure
+F489,2013,death or sudden illness
+F490,2014,resigned under board pressure
+F490,2020,resigned under board pressure
+F491,2016,resigned under board pressure
+F492,2020,resigned under board pressure
+F493,2017,resigned under board pressure
+F494,2022,resigned under board pressure
+F494,2024,resigned under board pressure
+F495,2011,resigned under board pressure
+F497,2014,planned retirement
+F497,2018,resigned under board pressure
+F500,2015,planned retirement
+F500,2024,resigned under board pressure
+F501,2013,planned retirement
+F501,2018,resigned under board pressure
+F502,2019,resigned under board pressure
+F502,2025,resigned under board pressure
+F504,2022,planned retirement
+F505,2012,planned retirement
+F506,2018,resigned under board pressure
+F506,2024,resigned under board pressure
+F507,2017,resigned under board pressure
+F507,2025,resigned under board pressure
+F509,2019,planned retirement
+F510,2012,death or sudden illness
+F510,2021,resigned under board pressure
+F511,2020,planned retirement
+F512,2013,resigned under board pressure
+F512,2017,resigned under board pressure
+F513,2012,death or sudden illness
+F513,2020,planned retirement
+F513,2022,resigned under board pressure
+F513,2023,resigned under board pressure
+F513,2024,resigned under board pressure
+F514,2011,planned retirement
+F514,2014,resigned under board pressure
+F514,2019,resigned under board pressure
+F516,2013,planned retirement
+F516,2021,planned retirement
+F517,2011,death or sudden illness
+F517,2012,resigned under board pressure
+F517,2022,planned retirement
+F519,2011,resigned under board pressure
+F519,2022,resigned under board pressure
+F521,2011,resigned under board pressure
+F521,2018,planned retirement
+F521,2021,death or sudden illness
+F521,2022,resigned under board pressure
+F521,2023,resigned under board pressure
+F524,2013,planned retirement
+F524,2018,planned retirement
+F524,2022,resigned under board pressure
+F524,2024,resigned under board pressure
+F526,2012,resigned under board pressure
+F526,2016,resigned under board pressure
+F527,2020,resigned under board pressure
+F527,2021,resigned under board pressure
+F527,2022,resigned under board pressure
+F528,2014,resigned under board pressure
+F529,2025,resigned under board pressure
+F530,2014,resigned under board pressure
+F530,2020,resigned under board pressure
+F531,2016,resigned under board pressure
+F531,2017,resigned under board pressure
+F531,2020,resigned under board pressure
+F532,2020,planned retirement
+F533,2016,resigned under board pressure
+F533,2017,resigned under board pressure
+F533,2024,resigned under board pressure
+F533,2025,resigned under board pressure
+F534,2017,resigned under board pressure
+F535,2014,planned retirement
+F535,2021,resigned under board pressure
+F536,2011,planned retirement
+F536,2023,planned retirement
+F537,2015,death or sudden illness
+F538,2017,resigned under board pressure
+F540,2011,death or sudden illness
+F540,2016,resigned under board pressure
+F541,2018,planned retirement
+F541,2023,resigned under board pressure
+F542,2018,planned retirement
+F542,2023,planned retirement
+F544,2024,resigned under board pressure
+F545,2012,death or sudden illness
+F545,2017,resigned under board pressure
+F546,2018,planned retirement
+F547,2015,planned retirement
+F547,2018,resigned under board pressure
+F547,2024,resigned under board pressure
+F548,2017,resigned under board pressure
+F549,2025,resigned under board pressure
+F550,2018,death or sudden illness
+F550,2021,resigned under board pressure
+F550,2022,resigned under board pressure
+F551,2023,resigned under board pressure
+F551,2025,resigned under board pressure
+F552,2014,planned retirement
+F552,2022,planned retirement
+F553,2024,death or sudden illness
+F554,2014,planned retirement
+F554,2019,planned retirement
+F554,2025,resigned under board pressure
+F555,2024,death or sudden illness
+F556,2016,death or sudden illness
+F556,2022,resigned under board pressure
+F556,2025,resigned under board pressure
+F557,2012,resigned under board pressure
+F557,2017,planned retirement
+F557,2019,resigned under board pressure
+F557,2020,resigned under board pressure
+F557,2022,death or sudden illness
+F558,2013,planned retirement
+F558,2023,resigned under board pressure
+F559,2012,resigned under board pressure
+F559,2013,resigned under board pressure
+F560,2022,resigned under board pressure
+F561,2014,planned retirement
+F561,2018,resigned under board pressure
+F561,2024,resigned under board pressure
+F562,2013,resigned under board pressure
+F562,2023,planned retirement
+F563,2011,resigned under board pressure
+F564,2011,planned retirement
+F565,2012,planned retirement
+F565,2024,resigned under board pressure
+F566,2018,resigned under board pressure
+F567,2025,planned retirement
+F568,2025,resigned under board pressure
+F569,2016,resigned under board pressure
+F570,2012,death or sudden illness
+F571,2013,death or sudden illness
+F571,2020,death or sudden illness
+F572,2016,resigned under board pressure
+F572,2019,resigned under board pressure
+F572,2025,planned retirement
+F574,2015,planned retirement
+F575,2015,resigned under board pressure
+F575,2017,resigned under board pressure
+F576,2011,resigned under board pressure
+F576,2023,planned retirement
+F578,2016,resigned under board pressure
+F578,2019,death or sudden illness
+F579,2018,planned retirement
+F580,2014,resigned under board pressure
+F582,2017,planned retirement
+F582,2019,resigned under board pressure
+F582,2023,resigned under board pressure
+F582,2025,resigned under board pressure
+F583,2015,planned retirement
+F583,2022,resigned under board pressure
+F585,2017,resigned under board pressure
+F585,2021,resigned under board pressure
+F586,2014,planned retirement
+F586,2019,resigned under board pressure
+F586,2024,resigned under board pressure
+F588,2013,planned retirement
+F588,2016,resigned under board pressure
+F591,2013,death or sudden illness
+F591,2014,resigned under board pressure
+F592,2012,planned retirement
+F592,2018,planned retirement
+F593,2012,resigned under board pressure
+F593,2016,resigned under board pressure
+F593,2021,resigned under board pressure
+F593,2023,resigned under board pressure
+F593,2025,resigned under board pressure
+F594,2013,planned retirement
+F594,2018,planned retirement
+F595,2024,planned retirement
+F596,2015,planned retirement
+F597,2014,resigned under board pressure
+F597,2015,resigned under board pressure
+F597,2020,resigned under board pressure
+F597,2023,resigned under board pressure
+F598,2021,resigned under board pressure
+F599,2014,resigned under board pressure
+F599,2023,planned retirement
+F600,2015,resigned under board pressure
